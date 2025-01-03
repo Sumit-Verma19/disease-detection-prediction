@@ -107,7 +107,7 @@ python sleepdis.py
 
 ## Requirements
 
-See `requirements.txt` for detailed package requirements.
+See [requirements.txt] for detailed package requirements.
 
 ## Contributing
 
@@ -115,7 +115,7 @@ Contributions are welcome! If you would like to improve this repository or add n
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md] file for details.
 
 ## Acknowledgments
 
