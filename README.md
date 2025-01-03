@@ -34,8 +34,8 @@ A comprehensive machine learning system for detecting various diseases including
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sumit-Verma19/disease-detection-system.git
-cd disease-detection-system
+git clone https://github.com/Sumit-Verma19/disease-detection-prediction.git
+cd disease-detection-prediction
 ```
 
 2. Create a virtual environment (recommended):
